@@ -1,0 +1,12 @@
+
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿ²çµå1
+D
+java:S2189B""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Ö³çµå1
+L	java:S106 "+Replace this use of System.out by a logger.(·³æ¯üÿÿÿÿ8ß³çµå1
+G	java:S106%"+Replace this use of System.err by a logger.(ÓÀÌè8ß³çµå1
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8á³çµå1
+G	java:S106:"+Replace this use of System.out by a logger.(¼í§þ8ã³çµå1
+L
+java:S1197@"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8å³çµå1

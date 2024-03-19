@@ -1,0 +1,10 @@
+
+}
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜ëèµå1J$487d527d-3408-4f8d-a811-338729b5a1b7
+m	java:S106 "+Replace this use of System.err by a logger.( ˜Øë8„íèµå1J$5c4d8751-14da-45c0-8c2f-d370bded1608
+r	java:S106$"+Replace this use of System.err by a logger.(î¤Õîûÿÿÿÿ8…íèµå1J$b70f91e4-7fe4-4d44-b935-c4d08e6372b1
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‡íèµå1J$0798d44c-6394-4ce4-81a1-f1df77b6b1b0
+m	java:S1067"+Replace this use of System.out by a logger.(öĞ§–8ˆíèµå1J$723cade2-5059-4b3a-90aa-299a68a63a99
+r
+java:S1197="*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Šíèµå1J$18be877b-84a5-4400-b3dc-10d3c2ab9084
