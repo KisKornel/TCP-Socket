@@ -1,10 +1,23 @@
 
+
+java:S1192+"HDefine a constant instead of duplicating this literal "server>" 4 times.(„şáâøÿÿÿÿ8ı¼å1J$eada1d38-95f8-477f-b192-d3b456bd2120
 }
-java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8˜ëèµå1J$487d527d-3408-4f8d-a811-338729b5a1b7
-m	java:S106 "+Replace this use of System.err by a logger.( ˜Øë8„íèµå1J$5c4d8751-14da-45c0-8c2f-d370bded1608
-r	java:S106$"+Replace this use of System.err by a logger.(î¤Õîûÿÿÿÿ8…íèµå1J$b70f91e4-7fe4-4d44-b935-c4d08e6372b1
+java:S1141&"5Extract this nested try block into a separate method.(µ—ö“ùÿÿÿÿ8‘ı¼å1J$47e6ffd1-89fb-42a4-a4a8-0a51214bb9a9
+	java:S116"[Rename this field "CLIENT_FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïí™Ô8Š’ı¼å1J$1db54e1e-8cc2-42b6-b05f-568425577870
+¥
+java:S1450"]Remove the "chooseFileName" field and declare it as a local variable in the relevant methods.(»ªëúÿÿÿÿ8Œ’ı¼å1J$bae0f6f6-fa60-4e7d-9522-cb250250718e
+r	java:S106+"+Replace this use of System.out by a logger.(„şáâøÿÿÿÿ8˜’ı¼å1J$efefb43f-0569-4fca-bd5f-c0c4dae3878d
+r	java:S106-"+Replace this use of System.out by a logger.(®æ ¡şÿÿÿÿ8˜’ı¼å1J$330493c8-28dd-42cf-9597-5bee8dbfaaaa
+r	java:S1060"+Replace this use of System.out by a logger.(©¸øşÿÿÿÿ8™’ı¼å1J$54cd9e65-6a9f-4cab-a036-d5be49c292d5
+r	java:S1066"+Replace this use of System.out by a logger.(„şáâøÿÿÿÿ8™’ı¼å1J$c19291cb-d25e-47c7-9a9b-14fc6334f283
+r	java:S106;"+Replace this use of System.out by a logger.(‰¹°üÿÿÿÿ8›’ı¼å1J$cd98a05a-e44e-4f52-a2d7-534e42f09304
+r	java:S106G"+Replace this use of System.out by a logger.(„şáâøÿÿÿÿ8œ’ı¼å1J$e9e54941-aa6a-4dde-bc66-1d625bd7a2e8
+r	java:S106L"+Replace this use of System.out by a logger.(„şáâøÿÿÿÿ8’ı¼å1J$579118a4-ad0e-429e-8489-3ff0cf3bb65a
+m	java:S106N"+Replace this use of System.err by a logger.( ˜Øë8›’ı¼å1J$5c7fd167-a5b7-4b02-a914-8f753b119164
+r	java:S106R"+Replace this use of System.err by a logger.(î¤Õîûÿÿÿÿ8›’ı¼å1J$0d04eb60-b2ad-42af-a89c-344b87d9b13d
+m	java:S106T"+Replace this use of System.out by a logger.(™»×Á8’ı¼å1J$73f8cccc-df3d-4af8-a402-ce10e0a3e38c
+m	java:S106\"+Replace this use of System.out by a logger.(™»×Á8‚ÉŒ½å1J$6f4f7e29-6951-4a18-877e-d512c504464e
 r
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‡íèµå1J$0798d44c-6394-4ce4-81a1-f1df77b6b1b0
-m	java:S1067"+Replace this use of System.out by a logger.(öĞ§–8ˆíèµå1J$723cade2-5059-4b3a-90aa-299a68a63a99
-r
-java:S1197="*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Šíèµå1J$18be877b-84a5-4400-b3dc-10d3c2ab9084
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8’ı¼å1J$3bf7eb75-e80e-41fc-bf73-70a5a5ea5897
+m	java:S106e"+Replace this use of System.out by a logger.(öĞ§–8 ü‘½å1J$1b9fe874-5357-4470-91ce-d3b8f503d43d
+m	java:S106g"+Replace this use of System.out by a logger.(™»×Á8Èœ¥½å1J$fbd5abf6-3581-4052-b6dd-9dfa687d738d

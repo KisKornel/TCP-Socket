@@ -1,12 +1,17 @@
 
-W
-java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿ²çµå1
-D
-java:S2189B""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Ö³çµå1
-L	java:S106 "+Replace this use of System.out by a logger.(·³æ¯üÿÿÿÿ8ß³çµå1
-G	java:S106%"+Replace this use of System.err by a logger.(ÓÀÌè8ß³çµå1
-L
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8á³çµå1
-G	java:S106:"+Replace this use of System.out by a logger.(¼í§þ8ã³çµå1
-L
-java:S1197@"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8å³çµå1
+“
+java:S1192E"KDefine a constant instead of duplicating this literal "Successful" 3 times.(“åÚéøÿÿÿÿ8ªÈž½å1J$a55d66f6-64b7-49d5-b753-ff5fcdeb9c17
+}
+java:S1141-"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¿óŒ¼å1J$6f8c9095-290f-4026-89e3-6198ed07edd2
+j
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8øôŒ¼å1J$70ce2785-a4da-4f3e-bee3-41d28d53c1e7
+¢	java:S116"[Rename this field "CLIENT_FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žº¤ªüÿÿÿÿ8ùôŒ¼å1J$f75de663-0b9b-46a6-96bb-eed5ab49f97d
+š
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Óˆöøûÿÿÿÿ8Ã†ž½å1J$30c9166d-2310-48a9-8109-c6b612211bf7
+r	java:S106/"+Replace this use of System.out by a logger.(·³æ¯üÿÿÿÿ8‚õŒ¼å1J$6494de5f-7156-4583-ac1d-e26200820009
+m	java:S106P"+Replace this use of System.err by a logger.(ÓÀÌè8…õŒ¼å1J$e868f9e3-2e1a-4fd2-a5a2-fffeb05f5633
+r
+java:S2093#"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8‡õŒ¼å1J$289f8ddc-3a65-456e-aa70-d61b055dc60d
+m	java:S106e"+Replace this use of System.out by a logger.(¼í§þ8ˆõŒ¼å1J$5d0670ef-9086-4ac6-a596-f1de57ddcda4
+q
+java:S1128	".Remove this unused import 'java.util.Objects'.(¼¸õ›8£­”¼å1J$dcd540b9-9b40-4d4b-a43d-49f1a4806e35
